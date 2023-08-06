@@ -1,0 +1,14 @@
+.card {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  row-gap: 20px;
+  column-gap: 20px;
+}
+
+.icard {
+  background-color: aquamarine;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+}
